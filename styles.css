@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
 .star {
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
   background-color: yellow;
 	border-bottom-color:yellow;
 border-bottom: 100px solid yellow;
-border-left:30px solid yellow;
-border-right:30px solid yellow;
+border-left:50px solid yellow;
+border-right:50px solid yellow;
   clip-path: polygon(50% 0%, 63% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
 
 }
